@@ -5,7 +5,7 @@ import React from 'react'
 
 const TopHeader = () => {
     return (
-        <div className='flex p-5 border-b items-center justify-between md:justify-end'>
+        <div className='flex p-6 border-b items-center justify-between md:justify-end'>
             <AlignJustify className='md:hidden' />
             <a
                 href="/"

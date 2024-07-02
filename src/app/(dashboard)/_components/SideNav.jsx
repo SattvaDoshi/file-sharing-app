@@ -32,7 +32,7 @@ const SideNav = () => {
                 <a
                     href="/"
                     className="flex gap-2 items-center ">
-                    <Image src='/logo.svg' height={35} width={40} alt='img' />
+                    <Image src='/logo.svg' height={35} width={36} alt='img' />
                     <span className='text-primary font-extrabold md:text-xl text-lg'>Ease Share</span>
                 </a>
             </div>
