@@ -22,7 +22,7 @@ const Header = () => {
 
                 <div className="hidden lg:flex gap-8 ">
                   <a href="#" className='hover:underline'>Home</a>
-                  <a href="#" className='hover:underline'>Upload</a>
+                  <a href="uploads" className='hover:underline'>Upload</a>
                   <a href="#" className='hover:underline'>About Us</a>
                   <a href="#" className='hover:underline'>Contact Us</a>
                 </div>
